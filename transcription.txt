@@ -1,0 +1,14 @@
+  Hello, my name is Andrey, I'm a Junior Front-end Developer.
+  I was born in Belarus, now I live in Poland. Some time ago I graduated from the Belarusian State University of Informatics and Radioelectronics.
+  After graduation, I worked in the company where I provided technical support and testing of the company's products.
+  I am currently studying at RSSchool courses for a front-end developer.
+
+  I have always been interested in the structure of websites and what opportunities modern technologies can give to ordinary users. 
+  Many different areas are applicable in the front-end: programming, design, development of user interfaces, integration and interaction with other applications ... in general, there is a large field for creativity where you can find yourself.
+  In addition, the front-end gives you the opportunity to create and observe the result of your work with your own eyes, I like it. Moreover, other areas of development are opened through the front end: back-end, testing and other
+
+  The training project I've been working on lately was a small web application for finding homes for homeless animals. 
+  The application took information from a database of animals that needed a home and provided this information to users through a user-friendly interface. 
+  In the application, I used basic technologies for building sites: HTML, CSS / SCSS, JavaScript (events, work with JSON, adaptation for the mobile version), worked with Git and git pages, used Figma for layout design.
+  In the future, I plan to continue developing new skills and work in this area, I plan to study one of the JavaScript frameworks: React or Angular, learn more about RestApi, about working with a database, Docker, Cypress or Jest testing frameworks.
+  In conclusion, I would say that there are so many new and exciting эксаитин things ahead. See you.
